@@ -1,5 +1,5 @@
-import { Container, Flex } from "@nayhoo/ui";
-
+import { Container } from "@nayhoo/ui/container";
+import { Flex } from "@nayhoo/ui/flex";
 import * as React from "react";
 import { Header } from "../ui/header";
 

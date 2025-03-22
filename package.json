@@ -14,12 +14,12 @@
     "cleandep": "rm -rf node_modules && pnpm -r exec rm -rf node_modules"
   },
   "dependencies": {
-    "@nayhoo/ui": "^0.5.0",
+    "@nayhoo/ui": "^0.9.4",
+    "@t3-oss/env-nextjs": "^0.11.1",
     "@vanilla-extract/next-plugin": "^2.4.8",
+    "next": "15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.6",
-    "@t3-oss/env-nextjs": "^0.11.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
