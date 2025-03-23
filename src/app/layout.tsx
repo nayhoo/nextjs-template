@@ -1,5 +1,5 @@
 import "@/styles/globals.css";
-import "@nayhoo/ui/css";
+import "@nayhoo/ui/theme/index.css";
 import type { Metadata } from "next";
 import { AppProvider } from "./provider";
 
